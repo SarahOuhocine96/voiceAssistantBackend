@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<root>
+    <tokenization>
+        <word id="1" value="اريد" stop_word="False" stem="ارد"/>
+        <word id="2" value="اعتداء" stop_word="False" stem="عدء"/>
+        <word id="3" value="معطفي" stop_word="False" stem="عطف"/>
+    </tokenization>
+</root>
